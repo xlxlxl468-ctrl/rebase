@@ -2,3 +2,4 @@ hello
 apple
 banana
 cherry
+date
